@@ -1,5 +1,7 @@
 # "Constructed Realities? Technical and Contextual Anomalies in a High-Profile Image"
-Supplemental [Blender](https://www.blender.org/) file 8 Jul 2025 by Drago N.
+Supplemental [Blender](https://www.blender.org/) file  
+Version 8 Jul 2025  
+by Drago N.
 
  
 
