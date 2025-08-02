@@ -1,7 +1,7 @@
 # "Constructed Realities? Technical and Contextual Anomalies in a High-Profile Image"
-Supplemental files Version 
+Supplemental files
 
-Aug 2, 2025
+Version Aug 2, 2025
 
 [Front view /Affinity](https://github.com/under-score/little_prince/blob/main/NINTCHDBPICT000141368077.afphoto)
 
