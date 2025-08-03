@@ -1,7 +1,5 @@
 # "Constructed Realities? Technical and Contextual Anomalies in a High-Profile Image"
-Supplemental files
-
-Version Aug 2, 2025
+Supplemental files V2 (Aug 2, 2025)
 
 
 [DMA2023 back view, Affinity](https://github.com/under-score/little_prince/blob/main/DM2023b.afphoto)
