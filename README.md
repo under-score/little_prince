@@ -3,9 +3,6 @@ Supplemental files
 
 Version Aug 2, 2025
 
-[Front view /Affinity](https://github.com/under-score/little_prince/blob/main/NINTCHDBPICT000141368077.afphoto)
-
-<img src="https://github.com/under-score/little_prince/blob/main/NINTCHDBPICT000141368077.jpg" style="width:50%; max-width:300px;">
 
 [Back view /Affinity](https://github.com/under-score/little_prince/blob/main/www67074273-11687313-image-a-5_1674927508384.afphoto)
 
