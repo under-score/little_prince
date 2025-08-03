@@ -4,10 +4,10 @@ Supplemental files
 Version Aug 2, 2025
 
 
-[Back view /Affinity](https://github.com/under-score/little_prince/blob/main/www67074273-11687313-image-a-5_1674927508384.afphoto)
+[Back view /Affinity](https://github.com/under-score/little_prince/blob/main/DM2023b.afphoto)
 
-<img src="https://github.com/under-score/little_prince/blob/main/www67074273-11687313-image-a-5_1674927508384.jpg" style="width:50%; max-width:300px;">
+<img src="https://github.com/under-score/little_prince/blob/main/DM2023b.jpg" style="width:50%; max-width:300px;">
 
-[Scene reconstruction /Blender](https://www.blender.org/](https://github.com/under-score/little_prince/blob/main/Scene%20recreation%20F.blend))
+[Scene reconstruction /Blender](https://www.blender.org/](https://github.com/under-score/little_prince/blob/main/Reconstruction.blend))
 
-<img src="https://github.com/under-score/little_prince/blob/main/Scene%20recreation%20F.jpg" style="width:50%; max-width:300px;">
+<img src="https://github.com/under-score/little_prince/blob/main/Reconstruction.jpg" style="width:50%; max-width:300px;">
