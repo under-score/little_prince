@@ -2,7 +2,7 @@
 Supplemental files V2 (Aug 6, 2025)
 
 
-[DMA2023 back view, Affinity](https://github.com/under-score/little_prince/blob/main/DM2023b.afphoto)
+[DM2023 back view, Affinity](https://github.com/under-score/little_prince/blob/main/DM2023b.afphoto)
 
 <img src="https://github.com/under-score/little_prince/blob/main/DM2023b.jpg" style="width:50%; max-width:300px;">
 
