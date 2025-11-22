@@ -12,8 +12,8 @@ Supplemental files V3 (Aug 6, 2025)
 
 [Noise Analysis Script](https://github.com/under-score/little_prince/blob/main/noise_type_rgb.py)
 
-[PCA and LAG Implementation](https://github.com/GuidoBartoli/sherloq)
+[PCA and LAG](https://github.com/GuidoBartoli/sherloq)
 
-[AdaCLIP Implementation]([AdaCLIP -- Zero-shot Anomaly Detection](https://huggingface.co/spaces/Caoyunkang/AdaCLIP))
+[AdaCLIP](https://huggingface.co/spaces/Caoyunkang/AdaCLIP))
 
-[MGFuser, Trufor, MMFusion Implementation](https://mever.gr/forensics)
+[MGFuser, Trufor, MMFusion](https://mever.gr/forensics)
