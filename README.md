@@ -10,6 +10,6 @@ Supplemental files V3 (Nov 20, 2025)
 
 [Noise Analysis Script (Python)](https://github.com/under-score/little_prince/blob/main/noise_type_rgb.py)
 
-[PCA and LAG (Sherloq)](https://github.com/GuidoBartoli/sherloq)
+[PCA, LAG (Sherloq)](https://github.com/GuidoBartoli/sherloq)
 
-[AdaCLIP](https://huggingface.co/spaces/Caoyunkang/AdaCLIP)), [MGFuser, Trufor, MMFusion](https://mever.gr/forensics)
+[AdaCLIP](https://huggingface.co/spaces/Caoyunkang/AdaCLIP), [MGFuser, Trufor, MMFusion](https://mever.gr/forensics)
