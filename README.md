@@ -10,8 +10,10 @@ Supplemental files V3 (Aug 6, 2025)
 
 <img src="https://github.com/under-score/little_prince/blob/main/Reconstruction.jpg" style="width:50%; max-width:300px;">
 
-Noise Analysis Script
+[Noise Analysis Script](https://github.com/under-score/little_prince/blob/main/noise_type_rgb.py)
 
+[PCA and LAG Implementation](https://github.com/GuidoBartoli/sherloq)
 
+[AdaCLIP Implementation]([AdaCLIP -- Zero-shot Anomaly Detection](https://huggingface.co/spaces/Caoyunkang/AdaCLIP))
 
-AI Analysis
+[MGFuser, Trufor, MMFusion Implementation](https://mever.gr/forensics)
