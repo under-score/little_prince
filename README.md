@@ -1,9 +1,9 @@
 # "Constructed Realities? Technical and Contextual Anomalies in a High-Profile Image"
-Supplemental files Nov 20, 2025 for [preprint](https://arxiv.org/abs/2507.12237)
+Supplemental files Nov 20, 2025 [preprint](https://arxiv.org/abs/2507.12237)
 
-Originals [DM2011](https://www.dailymail.co.uk/news/article-1361039/Prince-Andrew-girl-17-sex-offender-friend-flew-Britain-meet-him.html) [SUN20119[(https://www.dailymail.co.uk/news/article-11687313/Proof-Prince-Andrew-photo-not-fake-Evidence-image-royal-Virginia-Giuffre-real.html) [DM2023](https://www.dailymail.co.uk/news/article-11687313/Proof-Prince-Andrew-photo-not-fake-Evidence-image-royal-Virginia-Giuffre-real.htm)
+Original press papers [DM2011](https://www.dailymail.co.uk/news/article-1361039/Prince-Andrew-girl-17-sex-offender-friend-flew-Britain-meet-him.html) [SUN20119](https://www.dailymail.co.uk/news/article-11687313/Proof-Prince-Andrew-photo-not-fake-Evidence-image-royal-Virginia-Giuffre-real.html) [DM2023](https://www.dailymail.co.uk/news/article-11687313/Proof-Prince-Andrew-photo-not-fake-Evidence-image-royal-Virginia-Giuffre-real.htm)
 
-
+If blocked by paywall, use direct image links DM2011
 
 <img src="https://github.com/under-score/little_prince/blob/main/Reconstruction.jpg" style="width:50%; max-width:300px;">
 
@@ -17,4 +17,4 @@ Originals [DM2011](https://www.dailymail.co.uk/news/article-1361039/Prince-Andre
 
 [AdaCLIP](https://huggingface.co/spaces/Caoyunkang/AdaCLIP), [MGFuser, Trufor, MMFusion](https://mever.gr/forensics)
 
-I am looking for two sources - the original London townhouse image without Andrew Mountbatten-Windsor and the original headshot as all previous searches have not been successful.
+I am looking for the original headshot of Andrew Mountbatten-Windsor as the previous searches have not been successful.
