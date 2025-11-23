@@ -1,5 +1,5 @@
 # Constructed Realities? Technical and Contextual Anomalies in a High-Profile Image
-[preprint](https://arxiv.org/abs/2507.12237) Supplement Nov 20, 2025 
+[Preprint](https://arxiv.org/abs/2507.12237) Supplement
 
 Original press papers [DM2011](https://www.dailymail.co.uk/news/article-1361039/Prince-Andrew-girl-17-sex-offender-friend-flew-Britain-meet-him.html) [SUN20119](https://www.dailymail.co.uk/news/article-11687313/Proof-Prince-Andrew-photo-not-fake-Evidence-image-royal-Virginia-Giuffre-real.html) [DM2023](https://www.dailymail.co.uk/news/article-11687313/Proof-Prince-Andrew-photo-not-fake-Evidence-image-royal-Virginia-Giuffre-real.htm)
 
