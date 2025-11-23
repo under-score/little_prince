@@ -15,6 +15,6 @@ If blocked by paywall, use these image links [DM2011](https://i.dailymail.co.uk/
 
 [PCA, LAG (Sherloq)](https://github.com/GuidoBartoli/sherloq)
 
-[AdaCLIP (Hugginface(](https://huggingface.co/spaces/Caoyunkang/AdaCLIP), [MGFuser, Trufor, MMFusion](https://mever.gr/forensics (mever.gr))
+[AdaCLIP (Hugginface)](https://huggingface.co/spaces/Caoyunkang/AdaCLIP), [MGFuser, Trufor, MMFusion (all mever.gr)](https://mever.gr/forensics)
 
 I am looking for the original headshot of Andrew Mountbatten-Windsor as all previous searches have not been successful.
