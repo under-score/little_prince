@@ -17,6 +17,7 @@ If blocked by paywall, use direct image links [DM2011](https://i.dailymail.co.uk
 
 [AdaCLIP (Hugginface)](https://huggingface.co/spaces/Caoyunkang/AdaCLIP), [MGFuser, Trufor, MMFusion (MeVer)](https://mever.gr/forensics)
 
+<img src="https://github.com/under-score/little_prince/blob/main/trufor.png" style="width:50%; max-width:300px;">
 
 **Support Request**: I am looking for the original headshot of Andrew Mountbatten-Windsor as previous searches 
 at Google Image Search, PimEyes, TinEye, Getty Images and PA Images have not been successful. Is it a still image from a video?
