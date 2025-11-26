@@ -19,5 +19,6 @@ If blocked by paywall, use direct image links [DM2011](https://i.dailymail.co.uk
 
 <img src="https://github.com/under-score/little_prince/blob/main/trufor.png" style="width:50%; max-width:300px;">
 
-**Support Request**: I am looking for the original headshot of Andrew Mountbatten-Windsor as previous searches 
-at Google Image Search, PimEyes, TinEye, Getty Images and PA Images have not been successful. Is it a still image from a video?
+**Support Request**: I am looking for the original headshot of Andrew Mountbatten-Windsor as previous manual searches 
+at Google Image Search, PimEyes, TinEye, Getty and PA Images have not been successful. Right now I am scanning
+extracted stills from YT videos before 2010 unsing pHash. Would welcome any link to the orginal image!
