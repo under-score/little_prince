@@ -1,5 +1,4 @@
-# Constructed Realities?  
-Technical and Contextual Anomalies in a High-Profile Image
+# Constructed Realities? <br />Technical and Contextual Anomalies in a High-Profile Image
 
 This is a supplement to the [preprint on arXiv](https://arxiv.org/abs/2507.12237)
 
