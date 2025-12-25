@@ -28,5 +28,4 @@ Original press papers are [DM2011](https://www.dailymail.co.uk/news/article-1361
 * athe assumed psd file
 * the physical print that went lost
 * the crs file of the photographic reproduction by Michael Thomas
-* all scans on CD ROM produced March 17, 2011 during FBI 302 Interview that appears as [Giuffre001235-001246](https://www.justice.gov/multimedia/Court%20Records/Giuffre%20v.%20Maxwell%2C%20No.%20115-cv-07433%20%28S.D.N.Y.%202015%29/071-01.pdf)
-  
+* all scans on CD ROM produced March 17, 2011 during the FBI 302 interview: [Giuffre001235-001246](https://www.justice.gov/multimedia/Court%20Records/Giuffre%20v.%20Maxwell%2C%20No.%20115-cv-07433%20%28S.D.N.Y.%202015%29/071-01.pdf) - not in the Epstein Files 22/12/25  
