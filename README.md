@@ -14,9 +14,7 @@ The original press papers are [DM2011](https://www.dailymail.co.uk/news/article-
 
 [Modified back print (Affinity)](https://github.com/under-score/little_prince/blob/main/DM2023b.afphoto)
 
-[PCA, LAG (Sherloq)](https://github.com/GuidoBartoli/sherloq)
-
-[AdaCLIP (Hugginface)](https://huggingface.co/spaces/Caoyunkang/AdaCLIP), [MGFuser, Trufor, MMFusion (MeVer)](https://mever.gr/forensics)
+For all other analysis, upload the image to [AdaCLIP (Hugginface)](https://huggingface.co/spaces/Caoyunkang/AdaCLIP), [MGFuser, Trufor, MMFusion (MeVer)](https://mever.gr/forensics)
 
 <img src="https://github.com/under-score/little_prince/blob/main/trufor.png" style="width:50%; max-width:300px;">
 
