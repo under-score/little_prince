@@ -6,8 +6,6 @@ The original press papers are [DM2011](https://www.dailymail.co.uk/news/article-
 
 [Noise Analysis Script (Python)](https://github.com/under-score/little_prince/blob/main/noise_type_rgb.py)
 
-[Video Lookup (Python)](https://github.com/under-score/little_prince/blob/main/video_lookup.py)
-
 <img src="https://github.com/under-score/little_prince/blob/main/Reconstruction.jpg" style="width:50%; max-width:300px;">
 
 [Scene reconstruction (Blender)](https://www.blender.org/](https://github.com/under-score/little_prince/blob/main/Reconstruction.blend))
