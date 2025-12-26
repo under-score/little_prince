@@ -19,9 +19,6 @@ For all other analysis, upload the image to [AdaCLIP (Hugginface)](https://huggi
 
 **Support Request**: I am looking for 
 
-* the assumed original image of the London townhouse showing less than 3 individuals
-* the assumed original headshot of Andrew Mountbatten-Windsor
-* any assumed psd file
+* the assumed original image of the London townhouse showing less than 3 individuals, any headshot that may appear in another image and the possible psd file
 * the physical print that went lost
-* the crs file of the photographic reproduction by Michael Thomas
-* all the scans on the FBI CD ROM by March 17, 2011 [Giuffre001235-001246](https://www.justice.gov/multimedia/Court%20Records/Giuffre%20v.%20Maxwell%2C%20No.%20115-cv-07433%20%28S.D.N.Y.%202015%29/071-01.pdf).<br /> as by 22 Dec 2025 they are not in the (Epstein Library)[https://www.justice.gov/epstein]
+* but also the crs file of the photographic reproduction by Michael Thomas and the FBI scans on the the CD ROM by March 17, 2011 [Giuffre001235-001246](https://www.justice.gov/multimedia/Court%20Records/Giuffre%20v.%20Maxwell%2C%20No.%20115-cv-07433%20%28S.D.N.Y.%202015%29/071-01.pdf).<br />.
