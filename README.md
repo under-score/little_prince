@@ -29,10 +29,10 @@ For all AI analysis, upload the image to [AdaCLIP (Hugginface)](https://huggingf
 
 **Note added Feb 28, 2026**: The source image for one headshot has been located already in December 2025 while I have contacted only now the photographer to use the full image for the updated paper.<br />
 
-<img src="https://github.com/under-score/little_prince/blob/main/screen.jpg" style="width:50%; max-width:150px;">
-Geometric distance (normalized landmarks): 0.00315  
-Affine fit error (pixels): 2.03  
-Pixel residual after warp: 82.74  
-FFT spectral difference after warp: 0.89  
-which may be interpreted as the found image is geometrically similar, but resampling is not certain which is expected by printing and photographing.
+<img src="https://github.com/under-score/little_prince/blob/main/screen.jpg" style="width:30%; max-width:80px;">
+* Geometric distance (normalized landmarks): 0.00315  
+* Affine fit error (pixels): 2.03  
+* Pixel residual after warp: 82.74  
+* FFT spectral difference after warp: 0.89  
+* This may be interpreted as the found image is geometrically similar, but resampling is not certain which is expected by printing and photographing.
 
