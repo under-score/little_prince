@@ -28,7 +28,7 @@ For all AI analysis, upload the image to [AdaCLIP (Hugginface)](https://huggingf
 * but also the crs file of the photographic reproduction by Michael Thomas and the FBI scans on the the CD ROM by March 17, 2011 [Giuffre001235-001246](https://www.justice.gov/multimedia/Court%20Records/Giuffre%20v.%20Maxwell%2C%20No.%20115-cv-07433%20%28S.D.N.Y.%202015%29/071-01.pdf).<br />
 
 
-**Note**: The source image for one headshot has been located already in December 2025 while I have contacted only now the photographer to use the full image for the updated paper in March 2026.
+**Note**: The source image for one headshot has been located already in December 2025 by manual search of hundreds of images while I have contacted now the photographer to use the full image for an updated paper in March 2026.
 
 <img src="https://github.com/under-score/little_prince/blob/main/screen.jpg" style="width:30%; max-width:80px;"> 
 
