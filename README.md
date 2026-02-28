@@ -36,5 +36,6 @@ Geometric distance (normalized landmarks): 0.00315
 Affine fit error (pixels): 2.03
 Pixel residual after warp: 82.74
 FFT spectral difference after warp: 0.89
-The located image is geometrically similar, but resampling is not certain which is already expected by printing and photographing the original. Color can now be easily adjusted. Note the defect in the neckline in the original and the composite.
+The located image is geometrically similar, but resampling is not certain which is already expected by printing and photographing the original. Color can now be easily adjusted. Note the defect in the neckline in the original as well as the composite image.
 ```
+  
