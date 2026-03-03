@@ -27,7 +27,7 @@ I am looking for
 
 
 **Note**  
-The source image for Andrew's headshot has been located already in late 2025 by manual search of hundreds of images. I am waiting now for the permission to use the full source image for an update.
+The source image for Andrew's headshot has been located already in 2025 by manual search of hundreds of images. I am waiting now for the permission to use the full source image for an update.
 
 <img src="https://github.com/under-score/little_prince/blob/main/comparison.jpg" style="width:30%; max-width:80px;"> 
 
