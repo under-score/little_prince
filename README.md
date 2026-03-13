@@ -28,7 +28,5 @@ I am looking for
 * the psd file usede to create the composite
 * the physical print that went lost
 * the crs file of the photographic reproduction by Michael Thomas
-* the FBI scan on the the CD ROM by March 17, 2011 [Giuffre001235-001246](https://www.justice.gov/multimedia/Court%20Records/Giuffre%20v.%20Maxwell%2C%20No.%20115-cv-07433%20%28S.D.N.Y.%202015%29/071-01.pdf)<br />
-
-
+* the FBI scan on the the CD ROM by March 17, 2011
   
