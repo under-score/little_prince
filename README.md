@@ -22,15 +22,6 @@ The [source image for Andrew's headshot](https://www.gettyimages.com/detail/news
 
 <img src="https://github.com/under-score/little_prince/blob/main/comparison.jpg" style="width:30%; max-width:80px;"> 
 
-```javascript
-Geometric distance (normalized landmarks): 0.00315
-Affine fit error (pixels): 2.03
-Pixel residual after warp: 82.74
-FFT spectral difference after warp: 0.89
-The located image is geometrically similar, but resampling is not certain
-which is already expected by printing and photographing the original.
-```
-
 **Support Request**  
 I am looking for 
 * the assumed original image of the London townhouse; any head or bodyshot that may appear in another image; and the psd file
