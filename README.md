@@ -18,16 +18,7 @@ For AI analysis, upload the image to [AdaCLIP (Hugginface)](https://huggingface.
 
 <img src="https://github.com/under-score/little_prince/blob/main/trufor.png" style="width:50%; max-width:300px;">
 
-
-**Support Request**  
-I am looking for 
-* the assumed original image of the London townhouse; any head or bodyshot that may appear in another image; and the psd file
-* the physical print that went lost
-* but also the crs file of the photographic reproduction by Michael Thomas and the FBI scans on the the CD ROM by March 17, 2011 [Giuffre001235-001246](https://www.justice.gov/multimedia/Court%20Records/Giuffre%20v.%20Maxwell%2C%20No.%20115-cv-07433%20%28S.D.N.Y.%202015%29/071-01.pdf) would be interesting<br />
-
-
-**Note**  
-The source image for Andrew's headshot has been located already in 2025 by manual search of hundreds of images. I am waiting now for the permission to use the full source image for an update.
+The [source image for Andrew's headshot](https://www.gettyimages.com/detail/news-photo/the-duke-and-duchess-of-york-with-their-two-children-news-photo/830509198?adppopup=true) has been located already in 2025 by manual search of hundreds of images. 
 
 <img src="https://github.com/under-score/little_prince/blob/main/comparison.jpg" style="width:30%; max-width:80px;"> 
 
@@ -38,8 +29,13 @@ Pixel residual after warp: 82.74
 FFT spectral difference after warp: 0.89
 The located image is geometrically similar, but resampling is not certain
 which is already expected by printing and photographing the original.
-Color can now be easily adjusted.
-Note the defect in the neckline in the original as well as the composite image.
 ```
+
+**Support Request**  
+I am looking for 
+* the assumed original image of the London townhouse; any head or bodyshot that may appear in another image; and the psd file
+* the physical print that went lost
+* but also the crs file of the photographic reproduction by Michael Thomas and the FBI scans on the the CD ROM by March 17, 2011 [Giuffre001235-001246](https://www.justice.gov/multimedia/Court%20Records/Giuffre%20v.%20Maxwell%2C%20No.%20115-cv-07433%20%28S.D.N.Y.%202015%29/071-01.pdf) would be interesting<br />
+
 
   
