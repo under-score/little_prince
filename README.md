@@ -20,7 +20,7 @@ For AI analysis, upload to [AdaCLIP (Hugginface)](https://huggingface.co/spaces/
 
 <img src="https://github.com/under-score/little_prince/blob/main/trufor.png" style="width:50%; max-width:300px;">
 
-The source image of Andrew's headshot is at [Getty Images](https://www.gettyimages.com/detail/news-photo/the-duke-and-duchess-of-york-with-their-two-children-news-photo/830509198?adppopup=true) as well as one of [Maxwell](https://www.gettyimages.de/detail/nachrichtenfoto/portrait-of-from-left-future-married-couple-fashion-nachrichtenfoto/1254069198?adppopup=true). 
+The source image of [Andrew's](https://www.gettyimages.com/detail/news-photo/the-duke-and-duchess-of-york-with-their-two-children-news-photo/830509198?adppopup=true) headshot is at Getty Images as well as a possible source for [Maxwell](https://www.gettyimages.de/detail/nachrichtenfoto/portrait-of-from-left-future-married-couple-fashion-nachrichtenfoto/1254069198?adppopup=true). 
 
 A new [blog post](https://www.wjst.de/blog/sciencesurf/2026/04/26315/) explains why also the most recently surfaced emails do not contradict the analysis in this paper.
 
