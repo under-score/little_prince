@@ -20,12 +20,12 @@ For AI analysis, upload to [AdaCLIP (Hugginface)](https://huggingface.co/spaces/
 
 <img src="https://github.com/under-score/little_prince/blob/main/trufor.png" style="width:50%; max-width:300px;">
 
-The source image of Andrew's headshot is at [Getty Images](https://www.gettyimages.com/detail/news-photo/the-duke-and-duchess-of-york-with-their-two-children-news-photo/830509198?adppopup=true)
+The source image of Andrew's headshot is at [Getty Images](https://www.gettyimages.com/detail/news-photo/the-duke-and-duchess-of-york-with-their-two-children-news-photo/830509198?adppopup=true) as well as one of [Maxwell](https://www.gettyimages.de/detail/nachrichtenfoto/portrait-of-from-left-future-married-couple-fashion-nachrichtenfoto/1254069198?adppopup=true). 
 
-<img src="https://github.com/under-score/little_prince/blob/main/comparison.jpg" style="width:30%; max-width:80px;"> 
+A new [blog post](https://www.wjst.de/blog/sciencesurf/2026/04/26315/) explains why also the most recently surfaced emails do not contradict the analysis in this paper.
 
 **Support Request**  
 I am looking for 
-* any original bodyshot of Giuffre and Maxwell
 * the psd file used to create the composite
 * the physical print that went lost
+
