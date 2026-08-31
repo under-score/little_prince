@@ -14,17 +14,16 @@ If blocked by paywall, try these links: [DM2011](https://i.dailymail.co.uk/i/pix
 
 [Blender scene reconstruction](https://www.blender.org/](https://github.com/under-score/little_prince/blob/main/Reconstruction.blend))
 
-[Affinity back view](https://github.com/under-score/little_prince/blob/main/DM2023b.afphoto)
+[Affinity analysis of rear view](https://github.com/under-score/little_prince/blob/main/DM2023b.afphoto)
 
-For AI analysis, upload to [AdaCLIP (Hugginface)](https://huggingface.co/spaces/Caoyunkang/AdaCLIP), [MGFuser](https://mever.gr/forensics), [Trufor](https://mever.gr/forensics), [MMFusion](https://mever.gr/forensics)
+For AI analysis, upload to [AdaCLIP (Hugginface)](https://huggingface.co/spaces/Caoyunkang/AdaCLIP), [MGFuser](https://mever.gr/forensics), [Trufor](https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000480) or [MMFusion](https://mever.gr/forensics)
 
-<img src="https://github.com/under-score/little_prince/blob/main/trufor.png" style="width:50%; max-width:300px;">
-
-The source image of [Andrew's](https://www.gettyimages.com/detail/news-photo/the-duke-and-duchess-of-york-with-their-two-children-news-photo/830509198?adppopup=true) headshot is at Getty Images as well as a possible source for [Maxwell](https://www.gettyimages.de/detail/nachrichtenfoto/portrait-of-from-left-future-married-couple-fashion-nachrichtenfoto/1254069198?adppopup=true). 
+A potential source image of [Andrew's](https://www.gettyimages.com/detail/news-photo/the-duke-and-duchess-of-york-with-their-two-children-news-photo/830509198?adppopup=true) and [Maxwell's](https://www.gettyimages.de/detail/nachrichtenfoto/portrait-of-from-left-future-married-couple-fashion-nachrichtenfoto/1254069198?adppopup=true) headshot are at Getty Images.
 
 A new [blog post](https://www.wjst.de/blog/sciencesurf/2026/04/26315/) explains why also the most recently surfaced emails do not contradict the analysis in this paper.
 
 **Support Request**  
+
 I am looking for 
 * the psd file used to create the composite
 * the physical print that went lost
